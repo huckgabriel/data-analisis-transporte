@@ -34,7 +34,7 @@ transporte-urbano-analisis/
 Clonar este repositorio:
 
 '''bash
-git clone https://github.com/usuario/transporte-urbano-analisis.git
+git clone https://github.com/usuario/data-analisis-transporte.git
 cd transporte-urbano-analisis
 
 Instalar dependencias (usar un entorno virtual es recomendable):
